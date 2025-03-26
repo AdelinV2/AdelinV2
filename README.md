@@ -2,7 +2,7 @@
 
 <h2 align="center"> 🚀 About Me </h2>
 
-- 🎓 **Computer Science Student** at Timișoara University
+- 🎓 **Computer Science Student** at Politehnica University Timișoara
 - 💻 Passionate about **Backend Development & Microservices**
 - 🔧 Currently working on an **E-commerce platform** using **Java, Spring Boot, and Azure**
 - 🌱 Exploring **Angular** to enhance frontend skills
